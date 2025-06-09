@@ -51,6 +51,7 @@ import {
   gemini20FlashLite,
   gemini20ProExp0205,
   gemini25FlashPreview0417,
+  gemini25FlashPreview0520,
   gemini25ProExp0325,
   gemini25ProPreview0325,
   type GeminiConfig,
@@ -68,6 +69,7 @@ export {
   gemini20FlashLite,
   gemini20ProExp0205,
   gemini25FlashPreview0417,
+  gemini25FlashPreview0520
   gemini25ProExp0325,
   gemini25ProPreview0325,
   textEmbedding004,
